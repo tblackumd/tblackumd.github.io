@@ -6,3 +6,5 @@ Stocks.ipynb is a jupyter notebook that demonstrates usage of TD Ameritrade's AP
 I've also uploaded a Storybook which I have made in tableau.  It includes a series of visualizations of U.S. lobbying data from between 2008-2019.  The data was collected as a result of the lobbying Disclosure Act; data files were scraped from the House and Senate Lobbying Disclosure websites.  The storybook has also been uploaded in PDF form for those who do not have Tableau, however the PDF form isn't quite as sleek and loses tooltip functionality.
 
 I also have left up Democracy.ipynb, which was the original reason this github was created.  It was my final project for my Data Science class.  It's a jupyter notebook tutorial that demonstrates basic data organization, cleaning, and visualization.  It also shows usage of a basic feedforward neural network for prediction.
+
+If you somehow ended up here and now want to reach me, you can contact me at travis.r.black@gmail.com
